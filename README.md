@@ -4,9 +4,13 @@
 
 **Full-Stack Developer**
 
-Building full-stack applications with **React, Next.js, Node.js, and Supabase** — with an eye for the details, from how an interface feels to how the logic holds up behind it.
+I've been building software since 2023, and somewhere along the way it became something I genuinely love doing. Still building, still breaking things, and still learning something new every day.
 
 <p>
+  <a href="https://www.linkedin.com/in/m-hasan-azhar/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
+   &nbsp;
   <a href="https://github.com/m-hasan-azhar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -22,14 +26,13 @@ Building full-stack applications with **React, Next.js, Node.js, and Supabase** 
 
 ---
 
-### About
+### About Me
 
-- 💻 &nbsp;Full-Stack Developer focused on modern web applications
-- 🔭 &nbsp;Currently working on **DOCDA**, a healthcare SaaS platform for clinics and providers
-- ⚙️ &nbsp;Working mostly with **React, Next.js, Node.js, Supabase & PostgreSQL**
-- 🎓 &nbsp;Computer Science undergraduate
-- 🧩 &nbsp;I learn by building, breaking things, fixing them, and coming back with a better approach
-- 📍 &nbsp;Karachi, Pakistan
+- 💻 &nbsp;I enjoy working across the stack — from the interface to everything running behind it
+- ⚙️ &nbsp;Mostly building with **React, Next.js, Node.js, Supabase & PostgreSQL**
+- 🎓 &nbsp;Studying **Computer Science**
+- 🧩 &nbsp;I learn best by building things, breaking them, figuring out why, and doing it better next time
+- 📍 &nbsp;Based in **Karachi, Pakistan**
 
 ---
 
@@ -82,18 +85,6 @@ Healthcare platform connecting clinics, providers, and patients through role-bas
 </td>
 <td width="50%" valign="top">
 
-**[HASAN_OS — Interactive Portfolio](https://github.com/m-hasan-azhar/Portfolio)**
-
-A personal portfolio built as an interactive desktop environment with draggable windows, custom applications, and a retro-inspired interface.
-
-`React` `JavaScript` `UI/UX`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 **Auto Repair CRM**
 
 Full-stack CRM for automotive repair workflows with customer management, business operations, communication, and AI-powered integrations.
@@ -101,6 +92,9 @@ Full-stack CRM for automotive repair workflows with customer management, busines
 `Next.js` `Node.js` `MongoDB` `Twilio` `OpenAI API`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 **Complaint Management System**
@@ -110,9 +104,6 @@ Role-based platform for submitting, managing, and tracking complaints through st
 `Full Stack` `Database` `Authentication`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 **Cafe Management System**
@@ -120,15 +111,6 @@ Role-based platform for submitting, managing, and tracking complaints through st
 Database-backed application for managing cafe products, orders, and day-to-day operational workflows.
 
 `Application Development` `Database` `UI/UX`
-
-</td>
-<td width="50%" valign="top">
-
-**More in the works**
-
-Always building, experimenting, and occasionally breaking things that were working perfectly five minutes ago.
-
-`Build` `Break` `Fix` `Repeat`
 
 </td>
 </tr>
@@ -153,5 +135,7 @@ Always building, experimenting, and occasionally breaking things that were worki
 <a href="https://github.com/m-hasan-azhar">GitHub</a>
 &nbsp;·&nbsp;
 <a href="mailto:hasanazher0@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/m-hasan-azhar">LinkedIn</a>
 
 </div>
