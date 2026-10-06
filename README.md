@@ -4,7 +4,7 @@
 
 **Full-Stack Developer**
 
-I've been building software since 2023, and somewhere along the way it became something I genuinely love doing. Still building, still breaking things, and still learning something new every day.
+I've been building software since 2024, and somewhere along the way it became something I genuinely love doing. Still building, still breaking things, and still learning something new every day.
 
 <p>
   <a href="https://www.linkedin.com/in/m-hasan-azhar/">
